@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.btn-brand{
+  background-image:linear-gradient(75deg, #19D3AE, #0fcfec ) ;
+}
+.btn-brnad{
+  color:#1cc7c1;
+}
+.text-brand{
+  color:#1cc7c1;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
